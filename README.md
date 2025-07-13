@@ -48,16 +48,7 @@ Secure data hiding tool for confidential communication
 - ✅ Social media integration
 - ✅ Project showcase with tech stacks
 
-## 🚀 Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/portfolio-website.git
-
-# Open index.html in your browser
-# Or use a local server
-python -m http.server 8000
-```
 
 ## 📞 Get In Touch
 
